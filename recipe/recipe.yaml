@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "6.9.0"
+  version: "6.10.0"
 
 package:
   name: symspellpy
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/symspellpy/symspellpy-${{ version }}.tar.gz
-  sha256: 5ce8cb8a13e531db03f664407abc9e42e272f16bab7c0639500a8bdd07eee482
+  sha256: 7434e15c92b2af6ec0141df98f249b35a7ddc5496a410c2649c1ac74d84a3dfb
 
 build:
   number: 0
